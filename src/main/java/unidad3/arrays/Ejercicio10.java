@@ -38,6 +38,7 @@ public class Ejercicio10 {
 				m[i][j] = r.nextInt(1000);
 		
 		sumaColumnas(new int[][] {});
+		
 	}
 
 //	static int [] sumaFilas(int [][] m) {
