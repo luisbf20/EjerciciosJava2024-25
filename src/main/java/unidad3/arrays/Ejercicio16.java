@@ -107,7 +107,7 @@ public class Ejercicio16 {
 				System.out.print(dibujo[i][j]);
 			System.out.println();
 		}
-			
+		
 	}
 
 }
